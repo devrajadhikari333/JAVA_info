@@ -48,3 +48,5 @@ There are 8 types of primitive data types:
 * float data type
 * double data type
 
+![Java Data Types](https://github.com/devrajadhikari333/JAVA_info/blob/master/images/data_types.PNG)
+![Java Data Types Size](https://github.com/devrajadhikari333/JAVA_info/blob/master/images/data_types_size.PNG)
