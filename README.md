@@ -80,3 +80,44 @@ The double data type is a double-precision 64-bit IEEE 754 floating point. Its v
 ##### Char Data Type
 The char data type is a single 16-bit Unicode character. Its value-range lies between '\u0000' (or 0) to '\uffff' (or 65,535 inclusive).The char data type is used to store characters.
 **Example: char letterA = 'A'**
+
+### Operators in Java
+Operator in Java is a symbol which is used to perform operations. For example: +, -, *, / etc.
+
+There are many types of operators in Java which are given below:
+* Unary Operator
+* Arithmetic Operator
+* Shift Operator
+* Relational Operator
+* Bitwise Operator
+* Logical Operator
+* Ternary Operator and
+* Assignment Operator
+
+### Java Operator Precedence
+![Java Data Types]()
+
+#### Java Unary Operator
+The Java unary operators require only one operand. Unary operators are used to perform various operations i.e.:
+* incrementing/decrementing a value by one
+* negating an expression
+* inverting the value of a boolean
+
+**Java Unary Operator Example: ++ and --**
+```java
+class OperatorExample{  
+public static void main(String args[]){  
+int x=10;  
+System.out.println(x++);//10 (11)  
+System.out.println(++x);//12  
+System.out.println(x--);//12 (11)  
+System.out.println(--x);//10  
+}}
+```
+**Output**
+```
+10
+12
+12
+10
+```
